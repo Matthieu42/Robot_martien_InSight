@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Robot martien InSight</string>
+    <string name="voir_l_historique">VOIR L\'HISTORIQUE</string>
+    <string name="quelle_m_t_o_sur_mars">Quelle météo sur Mars ?</string>
+    <string name="sol_nb">Sol n°</string>
+    <string name="tempTV">Température :</string>
+    <string name="pressionTV">Pression :</string>
+    <string name="avgLabel">avg:</string>
+    <string name="minLabel">min:</string>
+</resources>
